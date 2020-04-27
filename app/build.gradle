@@ -7,7 +7,7 @@ android {
     defaultConfig {
         vectorDrawables.useSupportLibrary = true
         // Testing
-        applicationId "com.samagra.fardvet_odisha"
+        applicationId "com.samagra.demo.samiksha"
         minSdkVersion 19
         targetSdkVersion 28
         versionCode 1
@@ -20,13 +20,8 @@ android {
         release {
             minifyEnabled false
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            buildConfigField 'String', "dsn", "\"https://b2cbd7f2918a49d5931f4b6959f6e302@bugs.samagra.io/10\""
         }
 
-        debug {
-            buildConfigField 'String', "dsn", "\"https://b2cbd7f2918a49d5931f4b6959f6e302@bugs.samagra.io/10\""
-
-        }
     }
 
     compileOptions {

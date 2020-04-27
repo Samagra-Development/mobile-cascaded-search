@@ -14,10 +14,7 @@ import java.util.HashMap;
 public class AppConstants {
     public static final String PREF_FILE_NAME = "SAMAGRA_PREFS";
     public static final String FILE_PATH =  Environment.getExternalStorageDirectory()
-            + File.separator + "odk" + "/data2.json";
-    static final String BASE_API_URL = "http://www.auth.samagra.io:9011";
-    public static String ABOUT_WEBSITE_LINK = "http://139.59.71.154:3000/public/dashboard/b5bab1e2-7e46-4134-b065-7d62cc4d70d0";
-    public static String ABOOUT_FORUM_LINK = "http://samagragovernance.in/blog/";
+            + File.separator + "app" + "/data2.json";
 
     public static final HashMap<String, String> FORM_LIST = new HashMap<String, String>() {{
         put("CHT_V1", "Class 1st to 5th CHT School Visit Form");
