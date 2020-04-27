@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "613798918984",
+    "firebase_url": "https://f-ard-vet-ef731.firebaseio.com",
+    "project_id": "f-ard-vet-ef731",
+    "storage_bucket": "f-ard-vet-ef731.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613798918984:android:39c4350fafdc6f7d61917d",
+        "android_client_info": {
+          "package_name": "com.samagra.fardvet_odisha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613798918984-k67onn6e860igf5eqfpf09c30sc2m02t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhKZuSMaelgX8n-64snLTMqXT14FL7Qi4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613798918984-k67onn6e860igf5eqfpf09c30sc2m02t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
